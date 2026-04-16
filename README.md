@@ -55,8 +55,8 @@
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
 | **Portfolio Website** | Personal site to showcase skills, projects & experience | Next.js, Tailwind | https://next-portfolix.vercel.app/ |
-| **Job Portal Plugin** | WordPress plugin for job listing, filtering & management | PHP, AJAX | https://www.merchantnavydecodedjobs.com/ |
-| **MealMafia (Microservices App)** | Grocery ordering system with scalable microservices architecture | Spring Boot, Angular, GrokAI | — |
+| **Job Portal System** | Full-stack job & course platform serving 300+ daily applicants with automated application workflows (WhatsApp, Telegram, Email) and secure CV storage using AWS S3 | PHP, React.js, Python, AWS S3 | https://www.merchantnavydecodedjobs.com/ |
+| **MealMafia (Microservices App)** | Grocery ordering system with scalable microservices architecture | Spring Boot, Angular, GrokAI | https://github.com/Amanpreet325/mealmafia-microservice-architecture |
 
 ---
 
